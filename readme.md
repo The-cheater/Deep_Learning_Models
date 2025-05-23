@@ -5,16 +5,16 @@ Welcome to my public collection of deep learning models implemented in Google Co
 
 ## 📌 Repository Contents
 
-| Project | Description | Last Updated |
-|---------|------------|--------------|
-| [The-cheater](#) | (Description needed) | 18 hours ago |
-| [Cerebellar Ataxia vs Healthy Control](#) | Medical classification model | yesterday |
-| [Cryptocurrency RNN](#) | Time series forecasting with RNN | 3 days ago |
-| [Dogs & Cats Classifier](#) | Image classification | 4 days ago |
-| [Parkinson's Disease vs Healthy Control](#) | Medical classification model | 19 hours ago |
-| [ca_vs_hc.ipynb](#) | Cerebellar Ataxia classification | 18 hours ago |
-| [gaf_pattern.ipynb](#) | Gramian Angular Field patterns | yesterday |
-| [image_classifier.ipynb](#) | General image classifier | 4 days ago |
+| Project | Description |
+|---------|------------|
+| [The-cheater](#) | (Description needed) |
+| [Cerebellar Ataxia vs Healthy Control](#) | Medical classification model |
+| [Cryptocurrency RNN](#) | Time series forecasting with RNN |
+| [Dogs & Cats Classifier](#) | Image classification |
+| [Parkinson's Disease vs Healthy Control](#) | Medical classification model |
+| [ca_vs_hc.ipynb](#) | Cerebellar Ataxia classification | 
+| [gaf_pattern.ipynb](#) | Gramian Angular Field patterns | 
+| [image_classifier.ipynb](#) | General image classifier | 
 
 ## 🛠️ How to Use These Models
 
