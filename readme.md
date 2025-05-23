@@ -1,6 +1,5 @@
 # Deep Learning Models Repository 🚀
 
-![Deep Learning Banner](https://miro.medium.com/max/1400/1*_k6L2B_iiDrD2z8WnCQhFg.jpeg)
 
 Welcome to my public collection of deep learning models implemented in Google Colab! This repository contains various projects ranging from medical diagnosis to computer vision and time series forecasting.
 
@@ -37,7 +36,7 @@ Welcome to my public collection of deep learning models implemented in Google Co
 ## 🏥 Medical Projects
 
 ### Cerebellar Ataxia vs Healthy Control
-![Medical AI](https://www.ncbi.nlm.nih.gov/pmc/articles/instance/7239002/bin/gr1.jpg)
+
 
 **Key Features:**
 - Binary classification of medical data
@@ -45,7 +44,7 @@ Welcome to my public collection of deep learning models implemented in Google Co
 - Includes data preprocessing pipeline
 
 ### Parkinson's Disease Detection
-![Parkinson's Disease](https://www.researchgate.net/profile/Mehmet-Akif-Ozdemir/publication/338750454/figure/fig1/AS:849755565621248@1579613934985/Sample-images-of-handwriting-from-Parkinsons-disease-patients-and-healthy-controls.png)
+
 
 **References:**
 1. Smith, J. et al. (2020). "Deep Learning for Neurological Disorder Diagnosis"
@@ -54,7 +53,7 @@ Welcome to my public collection of deep learning models implemented in Google Co
 ## 🖼️ Computer Vision Projects
 
 ### Dogs & Cats Classifier
-![Dogs vs Cats](https://storage.googleapis.com/kaggle-competitions/kaggle/3362/media/woof_meow.jpg)
+
 
 **Model Architecture:**
 - Transfer learning with ResNet50
@@ -69,7 +68,7 @@ Welcome to my public collection of deep learning models implemented in Google Co
 ## 📈 Time Series Project
 
 ### Cryptocurrency Price Prediction
-![Cryptocurrency](https://miro.medium.com/max/1400/1*ZvJ0ZqG8XaN-ynuZb5x0PQ.jpeg)
+
 
 **Features:**
 - LSTM-based recurrent neural network
@@ -97,4 +96,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ⭐ **Star this repo if you find it useful!** ⭐
 
-*Last updated: June 2023*
+*Last updated: June 2025*
